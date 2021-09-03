@@ -1,3 +1,4 @@
-# Trabajos practicos 
+# Trabajo practico  
 
-Trabajos practicos realizados para la materia Algoritmos y programacion II (FIUBA)
+Trabajo practico 1 realizado para la materia Algoritmos y programacion II (FIUBA)
+
